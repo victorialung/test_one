@@ -3,7 +3,11 @@
 }
 div{
     height:100px;
+    <! -- se inserta un un valor de 8px a la propiedad MARGIN para que haya una separación entre los bloques,
+    según la vista a replicar -->
     margin : 8px;
+    <! -- se inserta un un valor de 8px a la propiedad PADDING para que haya una separación entre el MARGIN y el contenido,
+    según la vista a replicar -->
     padding: 8px;
     font-family: Palatino;
 }
