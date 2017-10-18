@@ -3,16 +3,16 @@
 }
 div{
     height:100px;
-    margin : 10px
+    margin : 8px;
+    padding: 8px;
+    font-family: Palatino;
 }
 
 .yellow{
     background: rgb(224, 174, 9);
-    margin: 10px
 }
 
 .black{
     background-color: #1a1b1d;
     color:white;
-    margin: 10px
 }
